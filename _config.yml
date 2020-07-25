@@ -5,7 +5,7 @@ name: "Designtank"
 description: "Personal blog of Chris A Raymond"
 
 # Your name. Will show in your footer + sidebar
-author: "Chris"
+author: "Chris Raymond"
 
 url: "https://chrisaraymond.github.io"
 baseurl: "/blog"
