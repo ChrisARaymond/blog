@@ -40,6 +40,10 @@ h1 {
   font-size: 250%; 
   margin: $spacing-xs 0;
 }
+h1, h1.title {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-weight: 400;
+}
 
 h2 { 
   font-size: 180%; 
