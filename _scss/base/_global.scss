@@ -41,6 +41,10 @@ h1 {
   font-size: 250%; 
   margin: $spacing-xs 0;
 }
+.h-wrap h1.title {
+  font-size:150%
+}
+
 h1, h1.title {
   font-family: 'Roboto Slab', Georgia, serif;
   font-weight: 400;
