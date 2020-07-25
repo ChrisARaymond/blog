@@ -14,10 +14,10 @@
       background: $main-color;
       transition: all .15s ease-in;
       &:active {
-        background: darken($main-color, 10%);
+        background: darken($main-color, 3%);
       }
       &:hover {
-        background: lighten($main-color, 10%)/* l*/;
+        background: lighten($main-color, 3%)/* l*/;
         .inner {
           -webkit-transform: translateX($spacing-s);
           -ms-transform: translateX($spacing-s);
