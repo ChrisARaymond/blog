@@ -3,10 +3,10 @@
   li {
     display: inline-block;
     width: 100%;
-    border-bottom: 1px solid darken($main-color, 6%);
+    border-bottom: 1px solid deeppink /* darken($main-color, 6%) */;
 
     &:first-child {
-      border-top: 1px solid darken($main-color, 6%);
+      border-top: 1px solid deeppink/* darken($main-color, 6%)*/;
     }
 
     .p-wrap {
@@ -14,10 +14,10 @@
       background: $main-color;
       transition: all .15s ease-in;
       &:active {
-        background: darken($main-color, 3%);
+        background: darken($main-color, 10%);
       }
       &:hover {
-        background: lighten($main-color, 3%);
+        background: lighten($main-color, 10%)/* l*/;
         .inner {
           -webkit-transform: translateX($spacing-s);
           -ms-transform: translateX($spacing-s);
