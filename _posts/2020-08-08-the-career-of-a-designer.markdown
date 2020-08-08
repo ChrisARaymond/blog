@@ -4,13 +4,15 @@ But recently I had a small epiphany: A coworker was designing 404 pages with coo
 
 It got me thinking about the rewards and frustrations of the wide variety of jobs and roles that I've had over the 20+ years since I switched from journalism to design.
 
-I offer the following insights hoping they will help others who are considering the design field to get a sense of what might be the best fit for their work style, and the questions to ask in interviews. They represent my personal experiences with specific employers. YMMV. File them under &ldquo;Things my younger self would have liked to know.&rdquo;
+I offer the following insights hoping they will help others who are considering the design field to get a sense of what might be the best fit for their work style, and the questions to ask in interviews. They represent my personal experiences with specific employers. YMMV.
+
+File them under *&ldquo;Things my younger self would have liked to know.&rdquo;*
 
 ## Role One: Traditional graphic design and art direction
 Workplace: Small design studios (6 or fewer designers or art directors) | Tenure: 7 years
 
 ### Rewards:
-_Variety in clients and type of projects_ <br> 
+_Variety in clients and type of projects_ <br>
 The client base of studios I worked at included cultural organizations, museums, scientific associations, and non-profits, pretty much a standard mix in the Washington DC region. I designed brochures, newsletters, posters, book jackets, logos and identity systems, even exhibit kiosks and wearables. As a &ldquo;junior&rdquo; designer, I also did most of the pre-press work. As art director, I wrote printing specs to get quotations.
 
 _Tangible work for my portfolio and to submit to design competitions_  
