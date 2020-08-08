@@ -1,5 +1,5 @@
-##What my younger self wishes I had known
-#About the work life of a designer
+## What my younger self wishes I had known
+# About the work life of a designer
 I'm mostly happy with my job as a UX designer. I think I make a difference within the teams I&rsquo;m part of, and that I&rsquo;m helping further my organization's mission, which played a large role in accepting the job.
 
 But recently I had a small epiphany: A coworker was designing 404 pages with cool images and funny copy, while I was building a spreadsheet totaling up and tagging hundreds of responses to a user survey. I realized that no one is ever going to ooh and ahh over my latest user testing script or that piece of microcopy I improved&mdash;certainly not the way folks praise a beautiful interface or a stunning hero image.
@@ -8,11 +8,11 @@ It got me thinking about the rewards and frustrations of the wide variety of job
 
 I offer the following insights hoping they will help others who are considering the design field to get a sense of what might be the best fit for their work style, and the questions to ask in interviews. They represent my personal experiences with specific employers. YMMV. File them under "Things my younger self would have liked to know."
 
-##Role One: Traditional graphic design and art direction
+## Role One: Traditional graphic design and art direction
 
 Workplace: Small design studios (6 or fewer designers or art directors) | Tenure: 7 years
 
-###Potential Rewards:
+### Rewards:
 
 _Variety in clients and type of projects_ 
 
@@ -26,7 +26,7 @@ _Creative synergy_
 
 Having other designers to bounce ideas off of, to learn from, and to teach is incredibly rewarding. The "design jam" I took part in shortly after starting my current job in spring 2019 was the first such collaboration I'd taken part in well over a decade. I'd forgotten how much I missed that.
 
-###Frustrations:
+### Frustrations:
 
 _Client relations_
 
@@ -40,11 +40,11 @@ _Money (lack thereof)_
 
 Enough said.
 
-##Role Two: Contract designer
+## Role Two: Contract designer
 
 Workplace: Various | Tenure: ~4 years
 
-###Rewards:
+### Rewards:
 _No downtime during work day_
 
 Clients pay a steep hourly fee for "temps," so by definition, you're there because there's work to do.
@@ -61,7 +61,7 @@ _Variety_
 
 One week, you might be at an ad agency; the next, at an association. If you enjoy thinking on your feet, being able to quickly pick up a tool you haven't used in a while, or grasping a brand's identity at warp speed, temp work can be a lot of fun.
 
-###Frustrations
+### Frustrations
 _Unpredictability_
 
 You don't know when your next assignment—and your next paycheck—will turn up.
@@ -74,11 +74,11 @@ _Peer recognition_
 
 Most of the time, you won't have anything to put in your portfolio, either because of NDAs or because by the time a piece is printed, you've moved on to another engagement.
 
-##Role Three: Web and graphic designer
+## Role Three: Web and graphic designer
 
 Workplace: University research center | Tenure: 8 years
 
-###Rewards:
+### Rewards:
 _Influence_
 
 You may have the opportunity to define the design role and establish more formal processes for executing design work.
@@ -95,7 +95,7 @@ _Stability_
 
 At least in pre-covid economic disaster days, a job at a public university was stable if not necessarily high-paying. Plus, you have some kind of pension plan or 401k, decent low-cost health insurance, and generous paid time off for holidays and winter breaks.
 
-###Frustrations
+### Frustrations
 _Professional isolation_
 
 If you're the only designer, you'll have no one to bounce ideas off of or learn from. You'll likely have few opportunities to submit to design competitions. 
@@ -108,11 +108,11 @@ _No room for advancement_
 
 If your salary is written into various grants, your chances for moving up the ladder in terms of job grade are slim to none.
 
-##Role Four: UX/UI designer
+## Role Four: UX/UI designer
 
 Workplace: Tiny tech start-up, pre-launch | Tenure: ~2.5 years
 
-###Rewards
+### Rewards
 _Variety_
 
 When I joined this firm, four of the full-time employees, including the founder, worked in one small office. The developers were remote. When the founder was writing grant proposals, we knew we'd better not open a bag of chips for lunch in earshot. When the contract UX director transitioned back to his own studio, I was the only person to do interface design, interaction design, user and UX research, and build and test prototypes. I was simultaneously teaching myself UX design and Sketch while grappling with Jira, writing user stories, and fitting in to Agile software development processes. Oh, and educating myself on designing games for school age kids and kids with cognitive disabilities. 
@@ -129,7 +129,7 @@ _Knowledge acquisition_
 
 I learned a massive amount about how apps are built and how developers work that put me in good stead for my current job. I'm a lifelong learner, so being paid to learn stuff is a great reward.
 
-###Frustrations
+### Frustrations
 _Lack of resources_
 
 Most start-ups fail. While this one didn't, two of us were laid off post-launch because of revenue shortfalls. I knew the company had sufficient money for 2 years when I took the job. The risk was outweighed by the opportunity for professional growth—and to be among the oldest women ever hired at a tech start-up! ;-)
@@ -148,7 +148,7 @@ Unlike with print design, there is never a "done" state. Every two weeks, anothe
 
 Workplace: Large established media company | Tenure: 1 year and counting
 
-###Rewards
+### Rewards
 _Creative synergy_
 
 There are a lot of fellow designers to kick around ideas with and get feedback from. Being able to listen to users satisfies my natural curiosity about people and their lived experience.
@@ -169,7 +169,7 @@ _Career growth_
 
 I am in the late stages of my professional career, so this is not an important factor for me. But several coworkers have advanced to more challenging positions just in the year I've been on board. The company believes in promoting from within and nurturing staff&rsquo;s professional  development.
 
-###Frustrations
+### Frustrations
 _Cognitive overload_
 
 I'm assigned to two separate sprint teams and product managers, with overlapping timelines. 
@@ -190,7 +190,7 @@ I thrive working within structure: clearly defined work processes, agreed-upon w
 _Role confusion_
 Most stakeholders don't differentiate in their mind between what user experience and user interface designers do. It says &ldquo;design,&rdquo; it must be about what something looks like.
 
-##Conclusion
+## Conclusion
 As Tolstoy said about families, all happy workplaces are alike; each unhappy workplace is unhappy in its own way.
 
 We each have our own criteria for what makes a satisfying and rewarding job experience. I hope what I've shared here helps you navigate your own career journey in a more informed way, and may you find a happy workplace. 
