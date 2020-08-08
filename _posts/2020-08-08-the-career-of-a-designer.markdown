@@ -144,7 +144,7 @@ _Lack of closure_
 
 Unlike with print design, there is never a &ldquo;done&rdquo; state. Every two weeks, another release adds, fixes, or enhances something. On the other hand, this can be a plus, as it means there&rsquo;s always another opportunity to get something right.
 
-##Role Five: UX designer
+## Role Five: UX designer
 
 Workplace: Large established media company | Tenure: 1 year and counting
 
