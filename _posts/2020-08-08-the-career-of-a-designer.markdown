@@ -20,7 +20,7 @@ _Creative synergy_
 Having other designers to bounce ideas off of, to learn from, and to teach is incredibly rewarding. The &ldquo;design jam&rdquo; I took part in shortly after starting my current job in spring 2019 was the first such collaboration I&rsquo;d taken part in well over a decade. I&rsquo;d forgotten how much I missed that.
 
 ### Frustrations:
-_Client relations_
+_Client relations_  
 Depending on the studio leadership and business approach, you might have clients who think of you as an order taker, rather than a strategic partner; you end up doing one-off after one-off projects. You can spend too many hours spinning your wheels designing for the wrong person: the account manager, who may have misread or misstated the client&rsquo;s goals.
 
 _Uncertain professional growth_  
