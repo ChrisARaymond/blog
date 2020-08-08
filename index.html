@@ -14,7 +14,7 @@ title: Homepage
                 itemprop="datePublished">
               {{ post.date | date_to_string }}
             </time>
-            <p itemprop="name headline">{{ post.title }}</p>
+            <p itemprop="name headline">{{ post.title | downcase | capitalize}}</p>
           </article>
         </div>
       </a>
