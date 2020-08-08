@@ -6,7 +6,7 @@ It got me thinking about the rewards and frustrations of the wide variety of job
 
 I offer the following insights hoping they will help others who are considering the design field to get a sense of what might be the best fit for their work style, and the questions to ask in interviews. They represent my personal experiences with specific employers. YMMV.
 
-File them under *&ldquo;Things my younger self would have liked to know.&rdquo;*
+File them under *&ldquo;Things my younger self would have liked to have known.&rdquo;*
 
 ## Role One: Traditional graphic design and art direction
 Workplace: Small design studios (6 or fewer designers or art directors) | Tenure: 7 years
