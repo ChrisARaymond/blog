@@ -10,7 +10,7 @@ I offer the following insights hoping they will help others who are considering 
 Workplace: Small design studios (6 or fewer designers or art directors) | Tenure: 7 years
 
 ### Rewards:
-_Variety in clients and type of projects_  
+_Variety in clients and type of projects_ <br> 
 The client base of studios I worked at included cultural organizations, museums, scientific associations, and non-profits, pretty much a standard mix in the Washington DC region. I designed brochures, newsletters, posters, book jackets, logos and identity systems, even exhibit kiosks and wearables. As a &ldquo;junior&rdquo; designer, I also did most of the pre-press work. As art director, I wrote printing specs to get quotations.
 
 _Tangible work for my portfolio and to submit to design competitions_  
