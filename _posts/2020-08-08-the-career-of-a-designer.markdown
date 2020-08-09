@@ -1,3 +1,6 @@
+---
+title: "The career of a designer"
+---
 I&rsquo;m mostly happy with my job as a UX designer. I think I make a difference within the teams I&rsquo;m part of, and that I&rsquo;m helping further my organization's mission, which played a large role in accepting the job.
 
 But recently I had a small epiphany: A coworker was designing 404 pages with cool images and funny copy, while I was building a spreadsheet totaling up and tagging hundreds of responses to a user survey. I realized that no one is ever going to ooh and ahh over my latest user testing script or that piece of microcopy I improved&mdash;certainly not the way folks praise a beautiful interface or a stunning hero image.
