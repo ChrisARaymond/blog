@@ -1,5 +1,5 @@
 ---
-published: true
+title: "Wrestling Github pages"
 ---
 ### It _is_ possible to learn new tricks
 
